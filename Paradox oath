@@ -21,10 +21,9 @@
 1	Grim Monolith	
 1	Lotus Petal	
 
-2	Sensei's Divining Top	
-3	Voltaic Key	
+1	Sensei's Divining Top	
+2	Voltaic Key	
 1	Time Vault	
-1	Expedition Map	
 1	Memory Jar
 
 1	Brainstorm	
@@ -36,15 +35,17 @@
 1	Time Walk	
 1	Tinker
 1	Timetwister	
-1	Hurkyl's Recall
 1	Brain Freeze
-1	Repeal
 
-2	Tezzeret the Seeker	
-4	Paradoxical Outcome
-3	Thirst for Knowledge
+1	Hurkyl's Recall
+1	Fragmentize
 4	Force of Will
 2	Flusterstorm
+
+4 Gitaxian Probe
+4	Paradoxical Outcome
+3	Thirst for Knowledge
+1 Flex slot
 
 Sideboard
 1	Chain of Vapor
