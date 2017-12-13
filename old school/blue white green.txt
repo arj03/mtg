@@ -25,8 +25,9 @@
 1 Library of Alexandria
 1 Strip Mine
 1 Plains
-2 Island
+1 Island
 1 Forest
+1 City of Brass
 3 Tropical Island
 3 Tundra
 3 Savannah
