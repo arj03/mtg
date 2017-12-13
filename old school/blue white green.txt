@@ -5,7 +5,7 @@
 2 Sylvan Library
 1 Time walk
 4 Serendib Efreet
-4 Ernahm Djinn
+4 Erhnam Djinn
 1 Control magic
 2 Serra Angel
 1 Mana drain
