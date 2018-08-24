@@ -1,11 +1,10 @@
 2 Flooded Strand
 2 Misty Rainforest
 2 Polluted Delta
-1 Scalding Tarn
 3 Forbidden Orchard
 1 Library of Alexandria
 1 Island
-2 Tropical Island
+3 Tropical Island
 3 Volcanic Island
 
 1 Black Lotus
@@ -49,8 +48,9 @@ Sideboard
 2 Ancient Grudge
 2 Null Rod
 1 Sorcerous Spyglass
-4 Tormod's Crypt
+3 Tormod's Crypt
+1 Ravenous Trap
 1 Hurkyl's Recall
 1 Nature's Claim
 2 Sudden Shock
-1 Firespout
+1 Pyroclasm
