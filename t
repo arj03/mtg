@@ -1,7 +1,7 @@
 Load gossip.json
 Remove local
 Foreach node
-   Ping
+   Ping using ebt
    IsTor
    HasShield
 
