@@ -7,4 +7,4 @@ Foreach node
 
 Run every 6 hours
 
-Shield patch til docker sbot
+Shield patch til docker sbot https://github.com/ahdinosaur/ssb-pub
