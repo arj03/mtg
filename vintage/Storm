@@ -4,10 +4,10 @@
 3 Underground Sea
 1 Library of Alexandria
 1 Tolarian Academy
-2 Bloodstained Mire
+1 Bloodstained Mire
 4 Polluted Delta
 
-1 Defense Grid
+2 Defense Grid
 1 Hurkyl's Recall
 1 Chain of Vapor
 1 Collective Brutality
@@ -18,18 +18,15 @@
 1 Gitaxian Probe
 1 Brainstorm
 1 Ponder
-2 Preordain
+4 Preordain
 
 1 Vampiric Tutor
 1 Demonic Tutor
 1 Mystical Tutor
 
-1 Sensei Divining Top
-
 1 Timetwister
 1 Tinker
 2 Dark Petition
-1 Mind's Desire
 1 Wheel of Fortune
 1 Yawgmoth's Will
 1 Necropotence
@@ -37,12 +34,12 @@
 1 Bolas Citadel
 
 1 Tendrils of Agony
-1 Empty the Warrens
 
 4 Dark Ritual
 2 Cabal Ritual
 
 1 Black Lotus
+1 Lion's Eye Diamond
 1 Lotus Petal
 1 Mana Crypt
 1 Mana Vault
@@ -55,7 +52,8 @@
 
 Sideboard:
 2 Thoughtseize
-2 Mindbreak Trap 
+1 Pyroclasm
+1 Mental Misstep
 3 Pyroblast
 2 Hurkyl's Recall
 1 Island
