@@ -1,10 +1,10 @@
 1 Island
 1 Swamp
-1 Badlands
+1 Tropical Island
 3 Underground Sea
 1 Library of Alexandria
 1 Tolarian Academy
-1 Bloodstained Mire
+1 Misty Rainforest
 4 Polluted Delta
 
 2 Defense Grid
@@ -26,8 +26,7 @@
 
 1 Timetwister
 1 Tinker
-2 Dark Petition
-1 Wheel of Fortune
+3 Dark Petition
 1 Yawgmoth's Will
 1 Necropotence
 1 Yawgmoth's Bargain
@@ -51,13 +50,11 @@
 1 Mox Sapphire
 
 Sideboard:
-2 Thoughtseize
-1 Pyroclasm
-1 Mental Misstep
-3 Pyroblast
+3 Thoughtseize
 2 Hurkyl's Recall
-1 Island
-1 Tormod's Crypt
-1 Chain of Vapor 
-2 Fatal Push
-1 Blightsteel Collosus
+2 Tormod's Crypt
+1 Veil of Summer
+1 Forbidden Orchard
+1 Blazing Archon
+1 Griselbrand
+4 Oath of Druids
