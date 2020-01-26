@@ -1,10 +1,10 @@
 19 LANDS
 3 Ancient Den
-1 Seat of the Synod
+3 Seat of the Synod
 4 Ancient Tomb
-4 Cavern of Souls
+3 Cavern of Souls
 4 City of Traitors
-3 Tundra
+2 Tundra
 
 15 CREATURES
 4 Auriok Salvagers
@@ -23,7 +23,8 @@
 
 SIDEBOARD
 2 Containment Priest
-2 Cast Out
+1 Cast Out
+1 Oblivion Ring
 2 Ethersworn Canonist
 1 Tormod's Crypt
 3 Ensnaring Bridge
