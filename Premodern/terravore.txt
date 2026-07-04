@@ -1,22 +1,21 @@
 2 Mystic Enforcer
-3 Nimble Mongoose
-3 Weathered Wayfarer
+2 Werebear
+4 Weathered Wayfarer
 4 Terravore
 
 4 Mox Diamond
 
-1 Disenchant
-1 Naturalize
+2 Disenchant
+2 Naturalize
 4 Swords to Plowshares
-1 Enlightened Tutor
 3 Armageddon
 3 Call of the Herd
-1 Seal of Cleansing
 3 Sylvan Library
 
 4 Brushland
 4 Forest
-4 Gemstone Mine
+1 Nantuko Monastery
+3 Treetop Village
 3 Plains
 2 Rith's Grove
 2 Tranquil Thicket
@@ -24,11 +23,10 @@
 4 Windswept Heath
 
 Sideboard
-1 Armadillo Cloak
-2 Cataclysm
-4 Pyroblast
-2 Ray of Revelation
+2 Wrath of God
+3 Ray of Revelation
 2 Reprisal
-1 Sphere of Law
-2 Tormod's Crypt
-1 Warmth
+2 Phyrexian furnace
+2 Spirit Link
+2 Circle of Protection: Red
+2 Hidden Gibbons
